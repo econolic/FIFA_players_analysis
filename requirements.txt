@@ -1,0 +1,26 @@
+# Core scientific stack
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Scikit‑learn ecosystem
+scikit-learn>=1.4.0
+imbalanced-learn>=0.12.0
+joblib>=1.3.2
+
+# Gradient boosting
+lightgbm>=4.2.0
+
+# Hyper‑parameter optimisation
+optuna>=3.5.0
+
+# Explainability
+shap>=0.44.0
+
+# CLI / UX
+typer[all]>=0.9.0
+
+# Visualisation for EDA
+plotly>=5.18.0
+
+# Optional — для SHAP в ноутбуках
+numba>=0.59.0
